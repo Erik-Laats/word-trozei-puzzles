@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-28",
+  "version": 1,
+  "letters": "adeilmnortz",
+  "targets": [
+    "diner",
+    "deter",
+    "alarm"
+  ],
+  "seed": 20261028,
+  "note": null
+}

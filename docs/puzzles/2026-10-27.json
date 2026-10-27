@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-27",
+  "version": 1,
+  "letters": "acegijlnors",
+  "targets": [
+    "snail",
+    "scale",
+    "score"
+  ],
+  "seed": 20261027,
+  "note": null
+}

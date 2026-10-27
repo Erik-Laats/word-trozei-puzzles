@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <!-- Daily puzzle publisher. Compiles the game's pure C# Core so published puzzles match the app exactly. -->
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <LangVersion>9</LangVersion>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <InvariantGlobalization>true</InvariantGlobalization>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+    <!-- In the game repo the Core lives in Assets; in the puzzles repo a copy sits in core/. -->
+    <CoreDir Condition="Exists('core')">core</CoreDir>
+    <CoreDir Condition="!Exists('core')">../../Assets/_Project/Scripts/Core</CoreDir>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="$(CoreDir)/*.cs" />
+  </ItemGroup>
+</Project>

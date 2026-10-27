@@ -1,0 +1,173 @@
+{
+  "generated": "2026-10-27T20:03:07.3078583Z",
+  "puzzles": [
+    {
+      "date": "2026-10-27",
+      "version": 1,
+      "letters": "acegijlnors",
+      "targets": [
+        "snail",
+        "scale",
+        "score"
+      ],
+      "seed": 20261027,
+      "note": null
+    },
+    {
+      "date": "2026-10-28",
+      "version": 1,
+      "letters": "adeilmnortz",
+      "targets": [
+        "diner",
+        "deter",
+        "alarm"
+      ],
+      "seed": 20261028,
+      "note": null
+    },
+    {
+      "date": "2026-10-29",
+      "version": 1,
+      "letters": "abcilnorsux",
+      "targets": [
+        "color",
+        "incur",
+        "basic"
+      ],
+      "seed": 20261029,
+      "note": null
+    },
+    {
+      "date": "2026-10-30",
+      "version": 1,
+      "letters": "aegilorstxy",
+      "targets": [
+        "sixty",
+        "still",
+        "great"
+      ],
+      "seed": 20261030,
+      "note": null
+    },
+    {
+      "date": "2026-10-31",
+      "version": 1,
+      "letters": "aelnoqstuvw",
+      "targets": [
+        "toast",
+        "eaten",
+        "sense"
+      ],
+      "seed": 20261031,
+      "note": null
+    },
+    {
+      "date": "2026-11-01",
+      "version": 1,
+      "letters": "abdeijlnost",
+      "targets": [
+        "tense",
+        "stone",
+        "elite"
+      ],
+      "seed": 20261101,
+      "note": null
+    },
+    {
+      "date": "2026-11-02",
+      "version": 1,
+      "letters": "acehijlnost",
+      "targets": [
+        "chose",
+        "clean",
+        "ocean"
+      ],
+      "seed": 20261102,
+      "note": null
+    },
+    {
+      "date": "2026-11-03",
+      "version": 1,
+      "letters": "aeilnostwyz",
+      "targets": [
+        "newly",
+        "sense",
+        "state"
+      ],
+      "seed": 20261103,
+      "note": null
+    },
+    {
+      "date": "2026-11-04",
+      "version": 1,
+      "letters": "afinorstuvx",
+      "targets": [
+        "start",
+        "train",
+        "toast"
+      ],
+      "seed": 20261104,
+      "note": null
+    },
+    {
+      "date": "2026-11-05",
+      "version": 1,
+      "letters": "eilmoqrstuv",
+      "targets": [
+        "store",
+        "liter",
+        "trust"
+      ],
+      "seed": 20261105,
+      "note": null
+    },
+    {
+      "date": "2026-11-06",
+      "version": 1,
+      "letters": "adegiknrstu",
+      "targets": [
+        "unite",
+        "inane",
+        "utter"
+      ],
+      "seed": 20261106,
+      "note": null
+    },
+    {
+      "date": "2026-11-07",
+      "version": 1,
+      "letters": "adeiklnprsu",
+      "targets": [
+        "drain",
+        "skull",
+        "diner"
+      ],
+      "seed": 20261107,
+      "note": null
+    },
+    {
+      "date": "2026-11-08",
+      "version": 1,
+      "letters": "acdeijnorst",
+      "targets": [
+        "error",
+        "arena",
+        "ditto"
+      ],
+      "seed": 20261108,
+      "note": null
+    },
+    {
+      "date": "2026-11-09",
+      "version": 1,
+      "letters": "egilnostuyz",
+      "targets": [
+        "stunt",
+        "ozone",
+        "sense"
+      ],
+      "seed": 20261109,
+      "note": null
+    }
+  ]
+}

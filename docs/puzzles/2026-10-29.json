@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-29",
+  "version": 1,
+  "letters": "abcilnorsux",
+  "targets": [
+    "color",
+    "incur",
+    "basic"
+  ],
+  "seed": 20261029,
+  "note": null
+}

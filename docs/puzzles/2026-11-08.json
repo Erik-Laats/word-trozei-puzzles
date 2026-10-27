@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-08",
+  "version": 1,
+  "letters": "acdeijnorst",
+  "targets": [
+    "error",
+    "arena",
+    "ditto"
+  ],
+  "seed": 20261108,
+  "note": null
+}

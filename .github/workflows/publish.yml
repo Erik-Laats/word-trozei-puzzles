@@ -1,0 +1,70 @@
+# Keeps the next 14 days of Trozei puzzles published, and lets a person regenerate a day.
+# Published days are never changed by the nightly run; only "Run workflow" with a date replaces one.
+name: Publish puzzles
+
+on:
+  schedule:
+    - cron: "23 5 * * *" # every day at 05:23 UTC
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Regenerate this day (yyyy-MM-dd). Leave empty to just top up upcoming days."
+        required: false
+        default: ""
+      reason:
+        description: "Why (saved in the puzzle file)"
+        required: false
+        default: ""
+      force:
+        description: "Allow replacing today's (live) or a past puzzle. Reset that day's leaderboard afterwards."
+        type: boolean
+        default: false
+  push:
+    branches: [main]
+    paths: ["docs/puzzles/**", "generator/**"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    env:
+      GEN: dotnet generator/bin/Release/net8.0/PuzzleGen.dll
+      DATE: ${{ inputs.date }}
+      REASON: ${{ inputs.reason }}
+      FORCE: ${{ inputs.force }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: "8.0.x"
+
+      - name: Build generator
+        run: dotnet build generator -c Release -v q
+
+      - name: Regenerate a day
+        if: ${{ inputs.date != '' }}
+        run: |
+          args=(regenerate --site docs --words generator/words --date "$DATE")
+          [ -n "$REASON" ] && args+=(--reason "$REASON")
+          [ "$FORCE" = "true" ] && args+=(--force)
+          $GEN "${args[@]}"
+
+      - name: Publish upcoming days and validate everything
+        run: $GEN publish --site docs --words generator/words
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs
+          if git diff --cached --quiet; then echo "Nothing new."; exit 0; fi
+          if [ -n "$DATE" ]; then msg="Regenerate $DATE"; else msg="Publish upcoming puzzles"; fi
+          git commit -m "$msg"
+          git push

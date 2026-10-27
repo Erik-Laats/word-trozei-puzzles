@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-07",
+  "version": 1,
+  "letters": "adeiklnprsu",
+  "targets": [
+    "drain",
+    "skull",
+    "diner"
+  ],
+  "seed": 20261107,
+  "note": null
+}
