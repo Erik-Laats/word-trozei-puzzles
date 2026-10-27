@@ -67,4 +67,6 @@ jobs:
           if git diff --cached --quiet; then echo "Nothing new."; exit 0; fi
           if [ -n "$DATE" ]; then msg="Regenerate $DATE"; else msg="Publish upcoming puzzles"; fi
           git commit -m "$msg"
+          # Another run (e.g. a hand edit) may have pushed meanwhile.
+          git pull --rebase origin main
           git push

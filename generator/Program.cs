@@ -129,8 +129,20 @@ namespace PuzzleGen
                 if (p != null) list.Add(p);
             }
 
+            // Leave the file (and its timestamp) alone when the puzzles haven't changed, so runs with nothing new commit nothing.
+            string path = Path.Combine(site, "upcoming.json");
+            if (File.Exists(path))
+            {
+                var existing = JsonSerializer.Deserialize<Feed>(File.ReadAllText(path), Json);
+                if (existing?.Puzzles != null && JsonSerializer.Serialize(existing.Puzzles, Json) == JsonSerializer.Serialize(list, Json))
+                {
+                    Console.WriteLine($"feed     {list.Count} puzzles in upcoming.json (unchanged)");
+                    return;
+                }
+            }
+
             var feed = new Feed { Generated = DateTime.UtcNow.ToString("o"), Puzzles = list };
-            File.WriteAllText(Path.Combine(site, "upcoming.json"), JsonSerializer.Serialize(feed, Json) + "\n");
+            File.WriteAllText(path, JsonSerializer.Serialize(feed, Json) + "\n");
             Console.WriteLine($"feed     {list.Count} puzzles in upcoming.json");
         }
 
