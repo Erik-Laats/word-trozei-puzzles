@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-27T20:07:10.1559034Z",
+  "generated": "2026-10-28T11:26:01.1389085Z",
   "puzzles": [
     {
       "date": "2026-10-27",
@@ -167,6 +167,18 @@
         "sense"
       ],
       "seed": 20261109,
+      "note": null
+    },
+    {
+      "date": "2026-11-10",
+      "version": 1,
+      "letters": "aeilorstvxy",
+      "targets": [
+        "stole",
+        "stare",
+        "river"
+      ],
+      "seed": 20261110,
       "note": null
     }
   ]

@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-10",
+  "version": 1,
+  "letters": "aeilorstvxy",
+  "targets": [
+    "stole",
+    "stare",
+    "river"
+  ],
+  "seed": 20261110,
+  "note": null
+}
