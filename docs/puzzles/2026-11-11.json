@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-11",
+  "version": 1,
+  "letters": "aefilmnoqrs",
+  "targets": [
+    "sniff",
+    "offer",
+    "noise"
+  ],
+  "seed": 20261111,
+  "note": null
+}
