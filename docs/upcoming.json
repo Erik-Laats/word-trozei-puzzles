@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-29T11:36:10.6138807Z",
+  "generated": "2026-10-30T11:27:54.1215823Z",
   "puzzles": [
     {
       "date": "2026-10-27",
@@ -191,6 +191,18 @@
         "noise"
       ],
       "seed": 20261111,
+      "note": null
+    },
+    {
+      "date": "2026-11-12",
+      "version": 1,
+      "letters": "egilnoqstuw",
+      "targets": [
+        "loose",
+        "queen",
+        "tense"
+      ],
+      "seed": 20261112,
       "note": null
     }
   ]

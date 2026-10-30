@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-12",
+  "version": 1,
+  "letters": "egilnoqstuw",
+  "targets": [
+    "loose",
+    "queen",
+    "tense"
+  ],
+  "seed": 20261112,
+  "note": null
+}
