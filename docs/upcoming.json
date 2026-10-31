@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-30T11:27:54.1215823Z",
+  "generated": "2026-10-31T10:58:40.7026572Z",
   "puzzles": [
     {
       "date": "2026-10-27",
@@ -203,6 +203,18 @@
         "tense"
       ],
       "seed": 20261112,
+      "note": null
+    },
+    {
+      "date": "2026-11-13",
+      "version": 1,
+      "letters": "adefiknorst",
+      "targets": [
+        "inane",
+        "risen",
+        "tense"
+      ],
+      "seed": 20261113,
       "note": null
     }
   ]
