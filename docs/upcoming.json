@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-31T10:58:40.7026572Z",
+  "generated": "2026-11-01T11:54:08.9014418Z",
   "puzzles": [
     {
       "date": "2026-10-27",
@@ -215,6 +215,18 @@
         "tense"
       ],
       "seed": 20261113,
+      "note": null
+    },
+    {
+      "date": "2026-11-14",
+      "version": 1,
+      "letters": "aceijlnopst",
+      "targets": [
+        "scope",
+        "stone",
+        "alone"
+      ],
+      "seed": 20261114,
       "note": null
     }
   ]

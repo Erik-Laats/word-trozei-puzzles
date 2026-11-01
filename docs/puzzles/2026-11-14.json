@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-14",
+  "version": 1,
+  "letters": "aceijlnopst",
+  "targets": [
+    "scope",
+    "stone",
+    "alone"
+  ],
+  "seed": 20261114,
+  "note": null
+}
