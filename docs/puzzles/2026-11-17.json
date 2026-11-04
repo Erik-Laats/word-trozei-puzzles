@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-17",
+  "version": 1,
+  "letters": "aemnoqrstuy",
+  "targets": [
+    "erase",
+    "stray",
+    "mummy"
+  ],
+  "seed": 20261117,
+  "note": null
+}

@@ -1,18 +1,6 @@
 {
-  "generated": "2026-11-03T12:52:31.1536892Z",
+  "generated": "2026-11-04T13:05:06.4388587Z",
   "puzzles": [
-    {
-      "date": "2026-10-27",
-      "version": 1,
-      "letters": "acegijlnors",
-      "targets": [
-        "snail",
-        "scale",
-        "score"
-      ],
-      "seed": 20261027,
-      "note": null
-    },
     {
       "date": "2026-10-28",
       "version": 1,
@@ -251,6 +239,18 @@
         "glean"
       ],
       "seed": 20261116,
+      "note": null
+    },
+    {
+      "date": "2026-11-17",
+      "version": 1,
+      "letters": "aemnoqrstuy",
+      "targets": [
+        "erase",
+        "stray",
+        "mummy"
+      ],
+      "seed": 20261117,
       "note": null
     }
   ]
