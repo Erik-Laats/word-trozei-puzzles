@@ -1,18 +1,6 @@
 {
-  "generated": "2026-11-04T13:05:06.4388587Z",
+  "generated": "2026-11-05T13:19:05.5620031Z",
   "puzzles": [
-    {
-      "date": "2026-10-28",
-      "version": 1,
-      "letters": "adeilmnortz",
-      "targets": [
-        "diner",
-        "deter",
-        "alarm"
-      ],
-      "seed": 20261028,
-      "note": null
-    },
     {
       "date": "2026-10-29",
       "version": 1,
@@ -251,6 +239,18 @@
         "mummy"
       ],
       "seed": 20261117,
+      "note": null
+    },
+    {
+      "date": "2026-11-18",
+      "version": 1,
+      "letters": "aefgilnoqrs",
+      "targets": [
+        "finer",
+        "anger",
+        "inane"
+      ],
+      "seed": 20261118,
       "note": null
     }
   ]
