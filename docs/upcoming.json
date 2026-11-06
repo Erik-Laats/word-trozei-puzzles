@@ -1,18 +1,6 @@
 {
-  "generated": "2026-11-05T13:19:05.5620031Z",
+  "generated": "2026-11-06T13:02:11.9910209Z",
   "puzzles": [
-    {
-      "date": "2026-10-29",
-      "version": 1,
-      "letters": "abcilnorsux",
-      "targets": [
-        "color",
-        "incur",
-        "basic"
-      ],
-      "seed": 20261029,
-      "note": null
-    },
     {
       "date": "2026-10-30",
       "version": 1,
@@ -251,6 +239,18 @@
         "inane"
       ],
       "seed": 20261118,
+      "note": null
+    },
+    {
+      "date": "2026-11-19",
+      "version": 1,
+      "letters": "adeiklorstw",
+      "targets": [
+        "start",
+        "skirt",
+        "store"
+      ],
+      "seed": 20261119,
       "note": null
     }
   ]

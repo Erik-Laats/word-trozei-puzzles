@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-19",
+  "version": 1,
+  "letters": "adeiklorstw",
+  "targets": [
+    "start",
+    "skirt",
+    "store"
+  ],
+  "seed": 20261119,
+  "note": null
+}
