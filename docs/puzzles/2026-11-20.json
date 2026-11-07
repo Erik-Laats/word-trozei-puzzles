@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-20",
+  "version": 1,
+  "letters": "cefijlnostu",
+  "targets": [
+    "stunt",
+    "suite",
+    "uncle"
+  ],
+  "seed": 20261120,
+  "note": null
+}

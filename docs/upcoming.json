@@ -1,18 +1,6 @@
 {
-  "generated": "2026-11-06T13:02:11.9910209Z",
+  "generated": "2026-11-07T11:47:40.9242490Z",
   "puzzles": [
-    {
-      "date": "2026-10-30",
-      "version": 1,
-      "letters": "aegilorstxy",
-      "targets": [
-        "sixty",
-        "still",
-        "great"
-      ],
-      "seed": 20261030,
-      "note": null
-    },
     {
       "date": "2026-10-31",
       "version": 1,
@@ -251,6 +239,18 @@
         "store"
       ],
       "seed": 20261119,
+      "note": null
+    },
+    {
+      "date": "2026-11-20",
+      "version": 1,
+      "letters": "cefijlnostu",
+      "targets": [
+        "stunt",
+        "suite",
+        "uncle"
+      ],
+      "seed": 20261120,
       "note": null
     }
   ]
