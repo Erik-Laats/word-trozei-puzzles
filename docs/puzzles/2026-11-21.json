@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-21",
+  "version": 1,
+  "letters": "aeilmorstyz",
+  "targets": [
+    "treat",
+    "array",
+    "timer"
+  ],
+  "seed": 20261121,
+  "note": null
+}

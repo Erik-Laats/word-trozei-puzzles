@@ -1,18 +1,6 @@
 {
-  "generated": "2026-11-07T11:47:40.9242490Z",
+  "generated": "2026-11-08T11:59:42.7799172Z",
   "puzzles": [
-    {
-      "date": "2026-10-31",
-      "version": 1,
-      "letters": "aelnoqstuvw",
-      "targets": [
-        "toast",
-        "eaten",
-        "sense"
-      ],
-      "seed": 20261031,
-      "note": null
-    },
     {
       "date": "2026-11-01",
       "version": 1,
@@ -251,6 +239,18 @@
         "uncle"
       ],
       "seed": 20261120,
+      "note": null
+    },
+    {
+      "date": "2026-11-21",
+      "version": 1,
+      "letters": "aeilmorstyz",
+      "targets": [
+        "treat",
+        "array",
+        "timer"
+      ],
+      "seed": 20261121,
       "note": null
     }
   ]
