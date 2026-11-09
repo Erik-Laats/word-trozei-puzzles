@@ -1,18 +1,6 @@
 {
-  "generated": "2026-11-08T11:59:42.7799172Z",
+  "generated": "2026-11-09T14:01:33.2431079Z",
   "puzzles": [
-    {
-      "date": "2026-11-01",
-      "version": 1,
-      "letters": "abdeijlnost",
-      "targets": [
-        "tense",
-        "stone",
-        "elite"
-      ],
-      "seed": 20261101,
-      "note": null
-    },
     {
       "date": "2026-11-02",
       "version": 1,
@@ -251,6 +239,18 @@
         "timer"
       ],
       "seed": 20261121,
+      "note": null
+    },
+    {
+      "date": "2026-11-22",
+      "version": 1,
+      "letters": "aceilorstvx",
+      "targets": [
+        "color",
+        "liver",
+        "alter"
+      ],
+      "seed": 20261122,
       "note": null
     }
   ]
