@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-23",
+  "version": 1,
+  "letters": "ehilmnostux",
+  "targets": [
+    "sheet",
+    "stunt",
+    "limit"
+  ],
+  "seed": 20261123,
+  "note": null
+}

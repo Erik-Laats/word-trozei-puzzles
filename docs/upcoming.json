@@ -1,18 +1,6 @@
 {
-  "generated": "2026-11-09T14:01:33.2431079Z",
+  "generated": "2026-11-10T13:35:33.6368267Z",
   "puzzles": [
-    {
-      "date": "2026-11-02",
-      "version": 1,
-      "letters": "acehijlnost",
-      "targets": [
-        "chose",
-        "clean",
-        "ocean"
-      ],
-      "seed": 20261102,
-      "note": null
-    },
     {
       "date": "2026-11-03",
       "version": 1,
@@ -251,6 +239,18 @@
         "alter"
       ],
       "seed": 20261122,
+      "note": null
+    },
+    {
+      "date": "2026-11-23",
+      "version": 1,
+      "letters": "ehilmnostux",
+      "targets": [
+        "sheet",
+        "stunt",
+        "limit"
+      ],
+      "seed": 20261123,
       "note": null
     }
   ]
