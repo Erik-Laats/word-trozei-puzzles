@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-24",
+  "version": 1,
+  "letters": "abeginoqrst",
+  "targets": [
+    "quiet",
+    "abort",
+    "eater"
+  ],
+  "seed": 20261124,
+  "note": null
+}

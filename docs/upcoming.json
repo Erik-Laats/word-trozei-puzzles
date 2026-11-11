@@ -1,18 +1,6 @@
 {
-  "generated": "2026-11-10T13:35:33.6368267Z",
+  "generated": "2026-11-11T12:48:08.4493195Z",
   "puzzles": [
-    {
-      "date": "2026-11-03",
-      "version": 1,
-      "letters": "aeilnostwyz",
-      "targets": [
-        "newly",
-        "sense",
-        "state"
-      ],
-      "seed": 20261103,
-      "note": null
-    },
     {
       "date": "2026-11-04",
       "version": 1,
@@ -251,6 +239,18 @@
         "limit"
       ],
       "seed": 20261123,
+      "note": null
+    },
+    {
+      "date": "2026-11-24",
+      "version": 1,
+      "letters": "abeginoqrst",
+      "targets": [
+        "quiet",
+        "abort",
+        "eater"
+      ],
+      "seed": 20261124,
       "note": null
     }
   ]
