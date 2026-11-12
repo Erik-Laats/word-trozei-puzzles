@@ -1,18 +1,6 @@
 {
-  "generated": "2026-11-11T12:48:08.4493195Z",
+  "generated": "2026-11-12T13:51:09.9844027Z",
   "puzzles": [
-    {
-      "date": "2026-11-04",
-      "version": 1,
-      "letters": "afinorstuvx",
-      "targets": [
-        "start",
-        "train",
-        "toast"
-      ],
-      "seed": 20261104,
-      "note": null
-    },
     {
       "date": "2026-11-05",
       "version": 1,
@@ -251,6 +239,18 @@
         "eater"
       ],
       "seed": 20261124,
+      "note": null
+    },
+    {
+      "date": "2026-11-25",
+      "version": 1,
+      "letters": "afgiklnorsu",
+      "targets": [
+        "solar",
+        "going",
+        "groan"
+      ],
+      "seed": 20261125,
       "note": null
     }
   ]
