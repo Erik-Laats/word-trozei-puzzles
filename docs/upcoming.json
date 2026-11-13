@@ -1,18 +1,6 @@
 {
-  "generated": "2026-11-12T13:51:09.9844027Z",
+  "generated": "2026-11-13T13:13:53.3193703Z",
   "puzzles": [
-    {
-      "date": "2026-11-05",
-      "version": 1,
-      "letters": "eilmoqrstuv",
-      "targets": [
-        "store",
-        "liter",
-        "trust"
-      ],
-      "seed": 20261105,
-      "note": null
-    },
     {
       "date": "2026-11-06",
       "version": 1,
@@ -251,6 +239,18 @@
         "groan"
       ],
       "seed": 20261125,
+      "note": null
+    },
+    {
+      "date": "2026-11-26",
+      "version": 1,
+      "letters": "deijnorstuw",
+      "targets": [
+        "wrote",
+        "tense",
+        "suite"
+      ],
+      "seed": 20261126,
       "note": null
     }
   ]
