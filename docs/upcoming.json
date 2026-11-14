@@ -1,18 +1,6 @@
 {
-  "generated": "2026-11-13T13:13:53.3193703Z",
+  "generated": "2026-11-14T12:17:47.7930602Z",
   "puzzles": [
-    {
-      "date": "2026-11-06",
-      "version": 1,
-      "letters": "adegiknrstu",
-      "targets": [
-        "unite",
-        "inane",
-        "utter"
-      ],
-      "seed": 20261106,
-      "note": null
-    },
     {
       "date": "2026-11-07",
       "version": 1,
@@ -251,6 +239,18 @@
         "suite"
       ],
       "seed": 20261126,
+      "note": null
+    },
+    {
+      "date": "2026-11-27",
+      "version": 1,
+      "letters": "adeilnorsyz",
+      "targets": [
+        "dense",
+        "solar",
+        "radar"
+      ],
+      "seed": 20261127,
       "note": null
     }
   ]

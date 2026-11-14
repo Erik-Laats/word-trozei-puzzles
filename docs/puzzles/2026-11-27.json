@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-27",
+  "version": 1,
+  "letters": "adeilnorsyz",
+  "targets": [
+    "dense",
+    "solar",
+    "radar"
+  ],
+  "seed": 20261127,
+  "note": null
+}
