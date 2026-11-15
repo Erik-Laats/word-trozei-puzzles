@@ -1,18 +1,6 @@
 {
-  "generated": "2026-11-14T12:17:47.7930602Z",
+  "generated": "2026-11-15T12:50:24.8287605Z",
   "puzzles": [
-    {
-      "date": "2026-11-07",
-      "version": 1,
-      "letters": "adeiklnprsu",
-      "targets": [
-        "drain",
-        "skull",
-        "diner"
-      ],
-      "seed": 20261107,
-      "note": null
-    },
     {
       "date": "2026-11-08",
       "version": 1,
@@ -251,6 +239,18 @@
         "radar"
       ],
       "seed": 20261127,
+      "note": null
+    },
+    {
+      "date": "2026-11-28",
+      "version": 1,
+      "letters": "aeilmrstuvz",
+      "targets": [
+        "rarer",
+        "level",
+        "timer"
+      ],
+      "seed": 20261128,
       "note": null
     }
   ]

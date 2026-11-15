@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-28",
+  "version": 1,
+  "letters": "aeilmrstuvz",
+  "targets": [
+    "rarer",
+    "level",
+    "timer"
+  ],
+  "seed": 20261128,
+  "note": null
+}
