@@ -1,18 +1,6 @@
 {
-  "generated": "2026-11-16T13:46:54.7550315Z",
+  "generated": "2026-11-17T14:37:49.9774402Z",
   "puzzles": [
-    {
-      "date": "2026-11-09",
-      "version": 1,
-      "letters": "egilnostuyz",
-      "targets": [
-        "stunt",
-        "ozone",
-        "sense"
-      ],
-      "seed": 20261109,
-      "note": null
-    },
     {
       "date": "2026-11-10",
       "version": 1,
@@ -251,6 +239,18 @@
         "smile"
       ],
       "seed": 20261129,
+      "note": null
+    },
+    {
+      "date": "2026-11-30",
+      "version": 1,
+      "letters": "egimnoqrstu",
+      "targets": [
+        "suite",
+        "trust",
+        "gnome"
+      ],
+      "seed": 20261130,
       "note": null
     }
   ]
