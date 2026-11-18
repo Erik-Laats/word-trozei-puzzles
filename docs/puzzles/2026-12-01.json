@@ -1,0 +1,12 @@
+{
+  "date": "2026-12-01",
+  "version": 1,
+  "letters": "ahilorstuyz",
+  "targets": [
+    "array",
+    "trash",
+    "shout"
+  ],
+  "seed": 20261201,
+  "note": null
+}

@@ -1,18 +1,6 @@
 {
-  "generated": "2026-11-17T14:37:49.9774402Z",
+  "generated": "2026-11-18T14:14:59.0314446Z",
   "puzzles": [
-    {
-      "date": "2026-11-10",
-      "version": 1,
-      "letters": "aeilorstvxy",
-      "targets": [
-        "stole",
-        "stare",
-        "river"
-      ],
-      "seed": 20261110,
-      "note": null
-    },
     {
       "date": "2026-11-11",
       "version": 1,
@@ -251,6 +239,18 @@
         "gnome"
       ],
       "seed": 20261130,
+      "note": null
+    },
+    {
+      "date": "2026-12-01",
+      "version": 1,
+      "letters": "ahilorstuyz",
+      "targets": [
+        "array",
+        "trash",
+        "shout"
+      ],
+      "seed": 20261201,
       "note": null
     }
   ]
