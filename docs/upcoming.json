@@ -1,18 +1,6 @@
 {
-  "generated": "2026-11-18T14:14:59.0314446Z",
+  "generated": "2026-11-19T14:30:46.5560023Z",
   "puzzles": [
-    {
-      "date": "2026-11-11",
-      "version": 1,
-      "letters": "aefilmnoqrs",
-      "targets": [
-        "sniff",
-        "offer",
-        "noise"
-      ],
-      "seed": 20261111,
-      "note": null
-    },
     {
       "date": "2026-11-12",
       "version": 1,
@@ -251,6 +239,18 @@
         "shout"
       ],
       "seed": 20261201,
+      "note": null
+    },
+    {
+      "date": "2026-12-02",
+      "version": 1,
+      "letters": "aehilmnortz",
+      "targets": [
+        "later",
+        "hotel",
+        "heart"
+      ],
+      "seed": 20261202,
       "note": null
     }
   ]
