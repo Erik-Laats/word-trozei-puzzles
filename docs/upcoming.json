@@ -1,18 +1,6 @@
 {
-  "generated": "2026-11-19T14:30:46.5560023Z",
+  "generated": "2026-11-20T14:08:43.7157775Z",
   "puzzles": [
-    {
-      "date": "2026-11-12",
-      "version": 1,
-      "letters": "egilnoqstuw",
-      "targets": [
-        "loose",
-        "queen",
-        "tense"
-      ],
-      "seed": 20261112,
-      "note": null
-    },
     {
       "date": "2026-11-13",
       "version": 1,
@@ -251,6 +239,18 @@
         "heart"
       ],
       "seed": 20261202,
+      "note": null
+    },
+    {
+      "date": "2026-12-03",
+      "version": 1,
+      "letters": "abegilnrtux",
+      "targets": [
+        "guilt",
+        "inner",
+        "eater"
+      ],
+      "seed": 20261203,
       "note": null
     }
   ]
