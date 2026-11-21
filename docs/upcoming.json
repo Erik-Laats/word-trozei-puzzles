@@ -1,18 +1,6 @@
 {
-  "generated": "2026-11-20T14:08:43.7157775Z",
+  "generated": "2026-11-21T13:33:40.1373031Z",
   "puzzles": [
-    {
-      "date": "2026-11-13",
-      "version": 1,
-      "letters": "adefiknorst",
-      "targets": [
-        "inane",
-        "risen",
-        "tense"
-      ],
-      "seed": 20261113,
-      "note": null
-    },
     {
       "date": "2026-11-14",
       "version": 1,
@@ -251,6 +239,18 @@
         "eater"
       ],
       "seed": 20261203,
+      "note": null
+    },
+    {
+      "date": "2026-12-04",
+      "version": 1,
+      "letters": "dehinoqrstu",
+      "targets": [
+        "their",
+        "truth",
+        "shone"
+      ],
+      "seed": 20261204,
       "note": null
     }
   ]
