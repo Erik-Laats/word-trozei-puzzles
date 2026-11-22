@@ -1,18 +1,6 @@
 {
-  "generated": "2026-11-21T13:33:40.1373031Z",
+  "generated": "2026-11-22T13:26:57.4009069Z",
   "puzzles": [
-    {
-      "date": "2026-11-14",
-      "version": 1,
-      "letters": "aceijlnopst",
-      "targets": [
-        "scope",
-        "stone",
-        "alone"
-      ],
-      "seed": 20261114,
-      "note": null
-    },
     {
       "date": "2026-11-15",
       "version": 1,
@@ -251,6 +239,18 @@
         "shone"
       ],
       "seed": 20261204,
+      "note": null
+    },
+    {
+      "date": "2026-12-05",
+      "version": 1,
+      "letters": "aceiknorsty",
+      "targets": [
+        "track",
+        "eaten",
+        "sorry"
+      ],
+      "seed": 20261205,
       "note": null
     }
   ]
