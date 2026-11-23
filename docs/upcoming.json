@@ -1,18 +1,6 @@
 {
-  "generated": "2026-11-22T13:26:57.4009069Z",
+  "generated": "2026-11-23T16:09:03.1877719Z",
   "puzzles": [
-    {
-      "date": "2026-11-15",
-      "version": 1,
-      "letters": "aceinorstyz",
-      "targets": [
-        "stare",
-        "crazy",
-        "cater"
-      ],
-      "seed": 20261115,
-      "note": null
-    },
     {
       "date": "2026-11-16",
       "version": 1,
@@ -251,6 +239,18 @@
         "sorry"
       ],
       "seed": 20261205,
+      "note": null
+    },
+    {
+      "date": "2026-12-06",
+      "version": 1,
+      "letters": "aefiknrstuy",
+      "targets": [
+        "faint",
+        "risky",
+        "suite"
+      ],
+      "seed": 20261206,
       "note": null
     }
   ]
