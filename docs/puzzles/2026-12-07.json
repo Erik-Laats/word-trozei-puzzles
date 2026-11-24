@@ -1,0 +1,12 @@
+{
+  "date": "2026-12-07",
+  "version": 1,
+  "letters": "eijnoprstuv",
+  "targets": [
+    "reset",
+    "union",
+    "utter"
+  ],
+  "seed": 20261207,
+  "note": null
+}

@@ -1,18 +1,6 @@
 {
-  "generated": "2026-11-23T16:09:03.1877719Z",
+  "generated": "2026-11-24T15:58:35.5513184Z",
   "puzzles": [
-    {
-      "date": "2026-11-16",
-      "version": 1,
-      "letters": "aegilnrsuvx",
-      "targets": [
-        "venue",
-        "nerve",
-        "glean"
-      ],
-      "seed": 20261116,
-      "note": null
-    },
     {
       "date": "2026-11-17",
       "version": 1,
@@ -251,6 +239,18 @@
         "suite"
       ],
       "seed": 20261206,
+      "note": null
+    },
+    {
+      "date": "2026-12-07",
+      "version": 1,
+      "letters": "eijnoprstuv",
+      "targets": [
+        "reset",
+        "union",
+        "utter"
+      ],
+      "seed": 20261207,
       "note": null
     }
   ]
