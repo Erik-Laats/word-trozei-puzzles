@@ -1,0 +1,12 @@
+{
+  "date": "2026-12-09",
+  "version": 1,
+  "letters": "aegilnopstx",
+  "targets": [
+    "stage",
+    "pilot",
+    "asset"
+  ],
+  "seed": 20261209,
+  "note": null
+}

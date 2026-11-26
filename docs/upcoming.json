@@ -1,18 +1,6 @@
 {
-  "generated": "2026-11-25T15:45:37.4403224Z",
+  "generated": "2026-11-26T15:26:59.8976727Z",
   "puzzles": [
-    {
-      "date": "2026-11-18",
-      "version": 1,
-      "letters": "aefgilnoqrs",
-      "targets": [
-        "finer",
-        "anger",
-        "inane"
-      ],
-      "seed": 20261118,
-      "note": null
-    },
     {
       "date": "2026-11-19",
       "version": 1,
@@ -251,6 +239,18 @@
         "alarm"
       ],
       "seed": 20261208,
+      "note": null
+    },
+    {
+      "date": "2026-12-09",
+      "version": 1,
+      "letters": "aegilnopstx",
+      "targets": [
+        "stage",
+        "pilot",
+        "asset"
+      ],
+      "seed": 20261209,
       "note": null
     }
   ]
