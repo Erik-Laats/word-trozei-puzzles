@@ -1,18 +1,6 @@
 {
-  "generated": "2026-11-26T15:26:59.8976727Z",
+  "generated": "2026-11-27T15:16:25.7645447Z",
   "puzzles": [
-    {
-      "date": "2026-11-19",
-      "version": 1,
-      "letters": "adeiklorstw",
-      "targets": [
-        "start",
-        "skirt",
-        "store"
-      ],
-      "seed": 20261119,
-      "note": null
-    },
     {
       "date": "2026-11-20",
       "version": 1,
@@ -251,6 +239,18 @@
         "asset"
       ],
       "seed": 20261209,
+      "note": null
+    },
+    {
+      "date": "2026-12-10",
+      "version": 1,
+      "letters": "abdelnoqrsu",
+      "targets": [
+        "urban",
+        "reuse",
+        "brand"
+      ],
+      "seed": 20261210,
       "note": null
     }
   ]
