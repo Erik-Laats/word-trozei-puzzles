@@ -1,18 +1,6 @@
 {
-  "generated": "2026-11-27T15:16:25.7645447Z",
+  "generated": "2026-11-28T14:19:36.8577662Z",
   "puzzles": [
-    {
-      "date": "2026-11-20",
-      "version": 1,
-      "letters": "cefijlnostu",
-      "targets": [
-        "stunt",
-        "suite",
-        "uncle"
-      ],
-      "seed": 20261120,
-      "note": null
-    },
     {
       "date": "2026-11-21",
       "version": 1,
@@ -251,6 +239,18 @@
         "brand"
       ],
       "seed": 20261210,
+      "note": null
+    },
+    {
+      "date": "2026-12-11",
+      "version": 1,
+      "letters": "adehijlnort",
+      "targets": [
+        "enter",
+        "joint",
+        "trade"
+      ],
+      "seed": 20261211,
       "note": null
     }
   ]

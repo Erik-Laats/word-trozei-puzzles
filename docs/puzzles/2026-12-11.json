@@ -1,0 +1,12 @@
+{
+  "date": "2026-12-11",
+  "version": 1,
+  "letters": "adehijlnort",
+  "targets": [
+    "enter",
+    "joint",
+    "trade"
+  ],
+  "seed": 20261211,
+  "note": null
+}
